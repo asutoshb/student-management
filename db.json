@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "asutosh",
+      "city": "bbsr",
+      "age": 22,
+      "education": "btech",
+      "gender": "male",
+      "contact": "1212334455"
+    },
+    {
+      "id": 2,
+      "name": "abi",
+      "city": "bbsr",
+      "age": 28,
+      "education": "btech",
+      "gender": "male",
+      "contact": "1212334455"
+    },
+    {
+      "id": 3,
+      "name": "puja",
+      "city": "bbsr",
+      "age": 24,
+      "education": "btech",
+      "gender": "female",
+      "contact": "1212334455"
+    },
+    {
+      "name": "Peehu",
+      "city": "uk",
+      "age": "23",
+      "gender": "female",
+      "education": "bcom",
+      "contact": "435435345",
+      "id": 4
+    },
+    {
+      "name": "Raja",
+      "city": "hyderabad",
+      "age": "25",
+      "gender": "male",
+      "education": "bca",
+      "contact": "3948438573",
+      "id": 5
+    },
+    {
+      "name": "rasa",
+      "city": "delhi",
+      "age": "25",
+      "gender": "female",
+      "education": "bca",
+      "contact": "3948438573",
+      "id": 6
+    },
+    {
+      "name": "mukesh",
+      "city": "mumbai",
+      "age": "45",
+      "gender": "male",
+      "education": "cs graduate",
+      "contact": "38745938475",
+      "id": 7
+    },
+    {
+      "name": "neelam",
+      "city": "mumbai",
+      "age": "35",
+      "gender": "female",
+      "education": "cs graduate",
+      "contact": "38745938475",
+      "id": 8
+    }
+  ]
+}
